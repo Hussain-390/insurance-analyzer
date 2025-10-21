@@ -73,7 +73,6 @@ Predicted Insurance Charge: $4,562.30
 - Decision Tree Regressor
 - Random Forest Regressor
 - Gradient Boosting Regressor
-- AdaBoost Regressor
 
 ---
 
